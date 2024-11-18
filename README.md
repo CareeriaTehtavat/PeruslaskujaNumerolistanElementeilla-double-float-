@@ -1,11 +1,11 @@
-# Peruslaskuja numerolistan elementeillä (double/float)
+# Peruslaskuja numerolistan elementeillä (double)
 
 ## JOHDANTO
 - Muista aina hyödyntää jo aiemmin oppimaasi!
 - Katso apuja myös edellisistä tehtävistä. 
  
 ## TEHTÄVÄNANTO
-- Tee desimaaliluvuista koostuva numerolista, johon laitat tallettumaan ReadLine toiminnolla kymmenen desimaalilukua (katso edellinen numerolistatehtävä, tee tämä vain double tai float listana)
+- Tee desimaaliluvuista koostuva numerolista, johon laitat tallettumaan ReadLine toiminnolla kymmenen desimaalilukua (katso edellinen numerolistatehtävä, tee tämä vain double listana)
 - Tee seuraavat tulosteet WriteLine toiminnon avulla, saat käyttää apumuuttujia tai laittaa sovelluksesi laskemaan suoraan WriteLinen sisällä. 
 - Laske listan indeksilukujen 3 ja 5 summa
 - Laske listan indeksilukujen 1 ja 8 erotus
